@@ -6,6 +6,13 @@ This guide provides detailed instructions to set up and run the CARLA simulator,
 
 Click on the ⬆️ image to preview the video.
 
+
+`SSRCP React Frontend Application: `https://github.com/MitanshGor/SSRCP
+
+`SSRCP Node Backend Application: `https://github.com/MitanshGor/ssrcp_backend
+
+`SSRCP Flask Backend Application: `https://github.com/MitanshGor/SSRCP_FLASK
+
 ---
 ## Prerequisites
 
